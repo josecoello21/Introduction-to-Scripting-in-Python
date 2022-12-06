@@ -1,4 +1,4 @@
-# Introduction_to_Scripting_in_Python
+# Introduction to Scripting in Python
 
 Developed by Rice University's world-class Computer Science & Data Science faculty, this specialization is intended for beginners who would like to master essential programming skills.  
 
